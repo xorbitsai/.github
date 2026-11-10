@@ -11,7 +11,7 @@ We focus on scalable model serving, agent orchestration, and intelligent system 
 [![Twitter](https://img.shields.io/twitter/follow/xorbitsio?logo=twitter&style=social)](https://twitter.com/xorbitsio)
 
 - [xinference](https://github.com/xorbitsai/inference): a powerful and versatile library designed to serve language, speech recognition, and multimodal models.
-- [xagent](https://github.com/xorbitsai/xagent): AI agents for everyone. Production-ready platform with dynamic planning and autonomous tool orchestration.
+- [xagent](https://github.com/xorbitsai/xagent): Enterprise agent platform for building, deploying, and operating AI teammates.
 - [xoscar](https://github.com/xorbitsai/xoscar): Python actor framework for heterogeneous computing.
 
 ## Our Focus
